@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Weronika\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Weronika\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Cw10.1460534806.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Weronika\Desktop\pjatk\4 semestr\APBD\APBD_cw10\Cw10" t="IncludeFlat">
+      <e p="Cw10" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="EnrollmentsController.cs" t="Include" />
+          <e p="StudentsController.cs" t="Include" />
+        </e>
+        <e p="Cw10.csproj" t="IncludeRecursive" />
+        <e p="DTOs" t="Include">
+          <e p="Requests" t="Include">
+            <e p="DeleteStudentRequest.cs" t="Include" />
+            <e p="EnrollStudentRequest.cs" t="Include" />
+            <e p="ModifyStudentRequest.cs" t="Include" />
+            <e p="PromoteStudentRequest.cs" t="Include" />
+          </e>
+          <e p="Responses" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="Doctor.cs" t="Include" />
+          <e p="Enrollment.cs" t="Include" />
+          <e p="Medicament.cs" t="Include" />
+          <e p="Owner.cs" t="Include" />
+          <e p="Patient.cs" t="Include" />
+          <e p="Prescription.cs" t="Include" />
+          <e p="PrescriptionMedicament.cs" t="Include" />
+          <e p="ProcedureAnimal.cs" t="Include" />
+          <e p="Proceduree.cs" t="Include" />
+          <e p="s18991Context.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="Studies.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Cw10.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="IStudentDbService.cs" t="Include" />
+          <e p="SqlStudentDbService.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Cw10.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
